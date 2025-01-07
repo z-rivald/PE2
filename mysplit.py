@@ -12,10 +12,6 @@ def mysplit(strng):
             result.append(new_str) 
     return result
 
-    #
-    # put your code here
-    #
-
 
 print(mysplit("To be or not to be, that is the question"))
 print(mysplit("To be or not to be,that is the question"))
